@@ -1,0 +1,4 @@
+{
+  // https://dtwojs.web.app/docs/guide/concepts/typescript
+  "extends": "./.dtwo/tsconfig.json"
+}

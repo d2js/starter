@@ -1,0 +1,9 @@
+node_modules
+*.log*
+.dtwo
+.nitro
+.hole
+.cache
+.output
+.env
+dist

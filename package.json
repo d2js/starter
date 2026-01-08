@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "dtwo build",
+    "dev": "dtwo dev",
+    "generate": "dtwo generate",
+    "preview": "dtwo preview",
+    "postinstall": "dtwo prepare"
+  },
+  "devDependencies": {
+    "dtwo": "^3.0.0"
+  }
+}
