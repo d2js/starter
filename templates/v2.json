@@ -1,0 +1,6 @@
+{
+  "name": "v2",
+  "defaultDir": "dtwo-app",
+  "url": "https://dtwojs-v2.web.app",
+  "tar": "https://codeload.github.com/dtwo/starter/tar.gz/refs/heads/v2"
+}
