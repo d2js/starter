@@ -1,0 +1,16 @@
+{
+  "name": "dtwo-starter",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "dtwo dev",
+    "build": "dtwo build",
+    "start": "dtwo start",
+    "generate": "dtwo generate"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "core-js": "^3.40.0",
+    "dtwo": "^2.18.1"
+  }
+}
